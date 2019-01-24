@@ -55,10 +55,20 @@ kramdown:
 
 # Navigation
 nav:
-  - name:           "About"
-    url:            "/about"
-  - name:           "Archive"
-    url:            "/archive"
+  - name:           "Music"
+    url:            "/music"
+
+  - name:           "Games"
+    url:            "https://cipherprime.com"
+
+  - name:           "Talks"
+    url:            "/talks"
+
+  - name:           "Words"
+    url:            "/words"
+
+
+
   # - name:           "Tags"
   #   url:            "/tags"
   # - name:           "Github"
