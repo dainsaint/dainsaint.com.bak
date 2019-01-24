@@ -61,8 +61,8 @@ nav:
   - name:           "Games"
     url:            "https://cipherprime.com"
 
-  - name:           "Talks"
-    url:            "/talks"
+  - name:           "Videos"
+    url:            "/videos"
 
   - name:           "Words"
     url:            "/words"

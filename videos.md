@@ -1,9 +1,9 @@
 ---
-title: Talks
-permalink: /talks/
+title: Videos
+permalink: /videos/
 ---
 
-
+## Talks
 [![The Universe][universe-img]][universe]
 [**The Universe: How to Break the Game**][universe]
 
