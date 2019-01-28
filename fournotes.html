@@ -1,0 +1,33 @@
+<div id="notes">
+</div>
+
+<script type="text/javascript">
+var notes = ["C", "C<sup>♯</sup>", "D", "E<sup>♭</sup>", "E", "F", "F<sup>♯</sup>", "G", "G<sup>♯</sup>", "A", "B<sup>♭</sup>", "B"]
+var all = ""
+
+for(var i = 0; i < 4; i++)
+{
+  var idx = Math.floor( Math.random() * notes.length );
+  var note = notes[idx];
+  notes.splice(idx, 1);
+  all += note + (i < 3 ? "&middot;" : "");
+}
+
+document.getElementById( "notes" ).innerHTML = all;
+
+</script>
+
+<style type="text/css">
+  #notes{
+    font-size:100px;
+    text-align:center;
+    
+    width: 80%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: "Helvetica Neue";
+    font-weight: bold;
+  }
+</style>
