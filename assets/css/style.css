@@ -96,12 +96,6 @@ a.button:hover
   color: #F1453B;
 }
 
-.logo
-{
-  top: 15px;
-  position: relative;
-  transform: rotate(-10deg);
-}
 
 .content
 {
@@ -121,4 +115,52 @@ section:nth-of-type(2n + 3) .content
 {
   transform: rotate(3deg);
   padding: 0px 40px;
+}
+
+
+
+@keyframes wiggle {
+  0% {
+    transform: rotate(-10deg);
+  }
+
+  30% {
+    transform: rotate(-20deg);
+  }
+
+  60% {
+    transform: rotate(610deg);
+  }
+
+  70% {
+    transform: rotate(730deg);
+  }
+
+  90% {
+    transform: rotate(735deg);
+  }
+
+  95% {
+    transform: rotate(705deg);
+  }
+
+  100% {
+    transform: rotate(710deg);
+  }
+
+}
+
+
+
+.logo
+{
+  top: 15px;
+  position: relative;
+  transform: rotate(-10deg);
+
+}
+
+.logo:hover
+{
+animation: wiggle 1.5s linear;
 }
