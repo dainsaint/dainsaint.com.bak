@@ -1,5 +1,4 @@
 <html>
-
   <head>
     <title>Let Dain Saint Fight For The Future</title>
 
@@ -12,21 +11,26 @@
     <link rel="stylesheet" type="text/css" href="css/simple-grid.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
 
-    <meta
+    <script type="text/javascript" src="assets/js/hire.js"></script>
   </head>
 
-  <body>
+  <body onLoad="populateSource()">
+
+    <div id="view-source" class="hidden">
+      <a class="close" href="#" onClick="closeSource()"><i class="fas fa-times-circle"></i></a>
+      <pre id="source"></pre>
+    </div>
 
     <section>
     <p class="center"><img src="assets/images/hiredain.png" class="logo"/></p>
-    <h1>Dain Saint wants to<br/><img src="assets/images/fftf.png"/></h1>
+    <h1>Dain Saint wants to<br/><a href="http://fightforthefuture.org"><img src="assets/images/fftf.png"/></a></h1>
     </section>
 
     <section>
       <div class="content">
         <h2>Why hire Dain?</h2>
         <p>
-          You&rsquo;re looking at lot of candidates. You have the entire internet of possibilties open to you. So why this one? What makes Dain uniquely qualified for this position?<Br/><b>Let&rsquo;s find out!</b>
+          You&rsquo;re looking at lot of candidates. You have the entire internet of possibilties open to you. So why this one? What makes me uniquely qualified for this position?<Br/><b>Let&rsquo;s find out!</b>
         </p>
       </div>
     </section>
@@ -42,7 +46,7 @@
           As a game developer with <a href="https://cipherprime.com">Cipher Prime</a>, I'm proud to have spent the last 11 years creating fun, quirky, engaging user experiences&mdash;and even more experience delivering under deadline. <b>I know the difference between &ldquo;pretty code&rdquo; and &ldquo;shipped code&rdquo;</b>, and when to choose one over the other.
         </p>
         <p>
-          <a href="#" onClick='window.location="view-source:" + window.location.href' class="button"><i class="fas fa-eye"></i> View Page Source</a>
+          <a href="#" onClick='viewSource()' class="button"><i class="fas fa-eye"></i> View Page Source</a>
         </p>
       </div>
     </section>
@@ -51,7 +55,7 @@
       <div class="content">
         <h2><i class="fas fa-fist-raised"></i> Activist</h2>
         <p>
-          In 2016, I started <a href="https://www.engadget.com/2016/11/11/voting-activism-game-developer-dain-saint-philadelphia/">We Can Be Better</a>, aimed at <b>producing small, tight campaigns</b> to promote hope and action across the US. Our first campaign, <a href="http://freethevote.com">Free The Vote</a>, convinced <a href="https://technical.ly/philly/2016/11/02/free-vote-tech-election-day/">Philadelphia companies</a> to give employees time off to vote.
+          In 2016, I started <a href="https://www.engadget.com/2016/11/11/voting-activism-game-developer-dain-saint-philadelphia/">We Can Be Better</a>, aimed at <b>producing small, tight campaigns</b> to promote hope and action across the US. Our first campaign, <a href="http://freethevote.org">Free The Vote</a>, convinced <a href="https://technical.ly/philly/2016/11/02/free-vote-tech-election-day/">Philadelphia companies</a> to give employees time off to vote.
         </p>
         <p>
           But it's hard to make change alone. <b>I recognize now that I lacked the community organizing skills to make this movement successful</b>. That's why I am so eager to be part of a team that's fighting the good fight.
@@ -76,7 +80,7 @@
       </p>
 
       <p>
-        I was also lucky enough to join activist and musician <b>Leah Kaufmann's viral <a href="">Firewall</a> video</b>, protesting the same. (That's a much younger me around 3:26, being creeped on by Anonymous)
+        I was also lucky enough to join activist and musician <b>Leah Kaufmann's viral <a href="https://www.youtube.com/watch?v=h897fjcIIy4">Firewall</a> video</b>, protesting the same. (That's a much younger me around 3:20, being creeped on by Anonymous)
       </p>
 
       <p>
@@ -90,7 +94,7 @@
       <div class="content">
       <h2>Conclusion</h2>
       <p>
-        So why hire Dain? Simply put, he and this position were made for each other. Thank you so much for your consideration; I look forward to working with you!
+        So why hire me? Simply put, this position and I were made for each other. Thank you so much for your consideration; I look forward to working with you!
       </p>
       <p>
         <a class="button" href="mailto:dain@cipherprime.com?subject=Let's talk, Dain!"><i class="fas fa-envelope"></i> Talk to Dain!</a>
@@ -98,8 +102,5 @@
       </div>
 
     </section>
-
-
   </body>
-
 </html>
