@@ -1,0 +1,239 @@
+*
+{
+  font-family: 'Assistant', sans-serif;
+}
+
+h1
+{
+  /* font-family: "Josefin Sans", sans-serif; */
+  font-size: 4rem;
+  text-shadow: #293127 0px 2px;
+}
+
+h1 span.small
+{
+  font-family: 'Anton', sans-serif;
+  font-size: 0.5em;
+  color: #D5F6B8;
+}
+
+h1, h2, a.button
+{
+  font-family: 'Anton', sans-serif;
+  font-weight: normal;
+}
+
+
+
+h1 img
+{
+  width: 100%;
+  max-width: 520px;
+}
+
+html
+{
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+body
+{
+  background: #111;
+  color: #EBEBEB;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+  box-sizing: border-box;
+  -webkit-overflow-scrolling: touch;
+  /* text-align: center; */
+}
+
+.background
+{
+  background: url("../images/prison-bkg.jpg") center center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.bottom-area
+{
+  background: #EBEBEB;
+  border-radius: 2em;
+  color: #41495B;
+}
+
+
+p.focus
+{
+  font-size: 200%;
+  line-height: normal;
+}
+
+.iframe-wrapper
+  {
+    position:relative;
+    width: 100%;
+    height: 0px;
+    padding-bottom: 56.25%;
+  }
+
+  .iframe-wrapper iframe
+  {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+  }
+
+
+  a.button
+    {
+      color: #FFF !important;
+      background: #F1453B;
+      border-radius: 5px;
+      display: inline-block;
+      padding: 10px;
+      text-decoration: none;
+      text-align: center;
+      font-size: 2.5rem;
+      text-transform: uppercase;
+      letter-spacing: .5rem;
+      transition: background-color .2s, color .2s;
+    }
+
+    a.button:hover
+    {
+      background: #FFF;
+      color: #F1453B !important;
+    }
+
+
+
+p a, footer a
+  {
+    color: #C4E661;
+  }
+
+  p a:hover, footer a:hover
+  {
+    color: #F1453B;
+    transition: color .2s;
+  }
+
+
+
+.full
+{
+  width: 100%;
+}
+
+
+.content
+{
+  max-width: 720px;
+  margin: 0px auto;
+}
+
+p
+{
+  font-size: 1.2rem;
+}
+
+section
+{
+  padding: 1em;
+}
+
+section.head
+{
+}
+
+
+section:nth-child(2n+1)
+{
+  background: rgba(0,0,0,.5);
+}
+section:nth-child(2n)
+{
+  background: #C4E661;
+  color: #293127;
+}
+section:nth-child(2n) p a
+{
+  color: #F1453B;
+}
+
+section:nth-child(2n) p a:hover
+{
+  color: #FFF;
+}
+
+section.head
+{
+  background: #111;
+}
+
+section.head .social
+{
+  float: right;
+  font-size: 2rem;
+  margin-top: 24px;
+}
+
+section.head .social a
+{
+  color: #FFF;
+}
+section.head .social a:hover
+{
+  color: #C4E661;
+}
+
+footer
+{
+  background: #111;
+  height: 200px;
+  color: #FFF;
+  padding: 1em;
+}
+
+footer a
+{
+  color: #FFF;
+}
+
+
+footer ul
+{
+  list-style: none;
+  margin: 0px;
+  padding: 10px 0px;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid #FFF;
+  border-top: 1px solid #FFF;
+  width: 40%;
+}
+
+footer ul li
+{
+  margin: 0px;
+}
+
+footer ul li a
+{
+  text-decoration: none;
+}
+
+footer .social
+{
+  font-size: 20px;
+}
+
+footer .copyright
+{
+  color: #444;
+  font-size: .8rem;
+}
