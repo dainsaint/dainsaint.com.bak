@@ -60,11 +60,11 @@ voiced desire in a way i lacked<br/>
 gave affection in a way i admired<br/>
 made the loudness of his existence known<br/>
 
-he made each of his nine lives known<br/>
+he made each of his nine lives felt<br/>
 each of his eight miracles<br/>
 and went without question<br/>
 with no box-shaped hole<br/>
-or tightly-held fear<br/>
+or tightly-held fear to hold him<br/>
 slipping away as peacefully as his namesake<br/>
 
 and still,<br/>
