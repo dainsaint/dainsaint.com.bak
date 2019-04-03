@@ -19,7 +19,7 @@ into a world so quick<br/>
 to extinguish excitement<br/>
 
 the police would come<br/>
-as we buried him<br/>
+accusing us as we buried him<br/>
 flashlights and guns<br/>
 so eager to extinguish my grief<br/>
 that i forgot i had any<br/>
