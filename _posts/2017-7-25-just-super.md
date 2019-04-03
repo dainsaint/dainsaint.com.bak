@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "just-super"
-date:   2019-7-25 11:20:24 -0500
+title:  "just super"
+date:   2017-7-25 11:20:24 -0500
 ---
 
 A boy was bitten by a spider<br/>
