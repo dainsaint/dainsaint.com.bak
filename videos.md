@@ -33,7 +33,7 @@ On how the language we use around sexuality and pornography fetishizes marginali
 [universe]: https://www.youtube.com/watch?v=25lDS1tqKzs
 
 [xd-img]: /images/xd-talk.jpg
-[xd]: https://vimeo.com/216021226
+[xd]: https://www.youtube.com/watch?v=zNcbzCnP7T0
 
 [humansong-img]: /images/humansong-talk.jpg
 [humansong]: https://youtu.be/RxDQmVMT9a4?t=2027
