@@ -34,7 +34,7 @@ it was miracle she survived at all<br/>
 
 when she re-entered my care<br/>
 and her womb ruptured<br/>
-she remained as surprised as i<br/>
+she was as surprised as i was<br/>
 that she remained alive<br/>
 that having attention paid to her<br/>
 was all she needed to stay<br/>
