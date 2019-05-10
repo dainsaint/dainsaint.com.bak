@@ -1,16 +1,32 @@
+<div id="date">
+  week of april 22nd, 2019
+</div>
 <div id="notes">
 </div>
+
 <div id="promo">
   #fournotes &middot; @dainsaint
 </div>
 
+
+<script type="text/javascript" src="assets/js/seedrandom.min.js"></script>
+<script type="text/javascript" src="assets/js/sugar.min.js"></script>
+
 <script type="text/javascript">
+Sugar.extend();
+
 var notes = ["C", "C<sup>&#9839;</sup>", "D", "E<sup>&#9837;</sup>", "E", "F", "F<sup>&#9839;</sup>", "G", "G<sup>&#9839;</sup>", "A", "B<sup>&#9837;</sup>", "B"]
 var all = ""
 
+
+var date = Date.create("this Monday");
+var rng = new Math.seedrandom( date.short() );
+
+document.getElementById( "date" ).innerHTML = `week of ${ date.medium() }`;
+
 for(var i = 0; i < 4; i++)
 {
-  var idx = Math.floor( Math.random() * notes.length );
+  var idx = Math.floor( rng() * notes.length );
   var note = notes[idx];
   notes.splice(idx, 1);
   all += note + (i < 3 ? "&middot;" : "");
@@ -43,6 +59,20 @@ document.getElementById( "notes" ).innerHTML = all;
     top: 50%;
     left: 50%;
     margin-top: 100px;
+    transform: translate(-50%, -50%);
+    font-family: "Helvetica Neue";
+    font-weight: bold;
+  }
+
+  #date{
+    font-size:20px;
+    text-align:center;
+
+    width: 80%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
     transform: translate(-50%, -50%);
     font-family: "Helvetica Neue";
     font-weight: bold;
