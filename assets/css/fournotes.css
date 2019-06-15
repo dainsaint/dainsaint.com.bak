@@ -1,0 +1,181 @@
+body{
+  font-family: "Yanone Kaffeesatz";
+  background: #E84C89;
+  color: #FFF;
+  transition: .2s background-color;
+}
+
+/* #E84C89 pink*/
+/* #06D6A0 green*/
+/* #FCB326 orange*/
+/* #7F5CAA purple*/
+
+
+  #notes{
+    font-size:100px;
+    text-align:center;
+
+    /* font-family: "Helvetica Neue"; */
+    font-weight: bold;
+  }
+
+  #promo{
+    font-size:20px;
+    text-align:center;
+
+
+    font-weight: lighter;
+  }
+
+  #date{
+    font-size:20px;
+    text-align:center;
+
+    font-weight: bold;
+  }
+
+
+  sup
+  {
+    font-size: 40%;
+    position: absolute;
+    display: block;
+    top: 0px;
+    left: 50%;
+    padding-left:15px;
+  }
+
+  #notes span
+  {
+    display: inline-block;
+    width:15%;
+    position: relative;
+    text-align: center;
+  }
+
+  h1
+  {
+      font-size: 80px;
+      text-align: center;
+      margin: 0px;
+  }
+
+
+    #description{
+      text-align: center;
+    }
+
+  #center
+  {
+    margin: 80px auto;
+  }
+
+  p
+  {
+      font-size: 20px;
+  }
+
+  nav
+  {
+    text-align: center;
+  }
+
+
+
+  .content
+  {
+    max-width: 800px;
+    margin: 0px auto;
+    padding: 20px;
+  }
+
+
+  .disabled
+  {
+    pointer-events: none;
+    cursor: default;
+  }
+
+
+
+  .button
+  {
+    margin: 5px;
+    display: inline-block;
+    position: relative;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: #E84C89;
+    background: #FFF;
+    border:1px solid rgba(0,0,0, 0.05);
+    border-bottom: 3px solid rgba(0,0,0,.1);
+    transition: .2s background-color, .2s color;
+  }
+
+  .button:hover
+  {
+    background: #E84C89;
+    color: #FFF;
+  }
+
+  .button:active{
+    border-bottom-color: rgba(0,0,0,0);
+    top: 3px;
+  }
+
+
+  .button.disabled
+  {
+    color: rgba(0,0,0,.2) !important;
+    background: rgba(255,255,255,.2) !important;
+  }
+
+  .button.pink, .button.invert.pink:hover, .invert.pink
+  {
+    color: #E84C89;
+    background: #FFF;
+  }
+
+  .pink, .button.pink:hover, .button.invert.pink
+  {
+    background: #E84C89;
+    color: #FFF;
+  }
+
+  .button.green, .button.invert.green:hover
+  {
+    color: #06D6A0;
+    background: #FFF;
+  }
+
+  .green, .button.green:hover, .button.invert.green
+  {
+    background: #06D6A0;
+    color: #FFF;
+  }
+
+  .button.orange, .button.invert.orange:hover
+  {
+    color: #FCB326;
+    background: #FFF;
+  }
+
+  .orange, .button.orange:hover, .button.invert.orange
+  {
+    background: #FCB326;
+    color: #FFF;
+  }
+
+  .button.purple, .button.invert.purple:hover
+  {
+    color: #7F5CAA;
+    background: #FFF;
+  }
+
+  .purple, .button.purple:hover, .button.invert.purple
+  {
+    background: #7F5CAA;
+    color: #FFF;
+  }
