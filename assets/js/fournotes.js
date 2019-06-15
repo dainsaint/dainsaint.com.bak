@@ -7,18 +7,21 @@ function prevWeek()
 {
   offset--;
   generate( offset, false );
+  event.preventDefault();
 }
 
 function reset()
 {
   offset = 0;
   generate( offset, false );
+  event.preventDefault();
 }
 
 function randomize()
 {
   offset = -startDate.weeksAgo() + Math.floor(Math.random() * 11880);
   generate( offset, false );
+  event.preventDefault();
 }
 
 
@@ -26,6 +29,7 @@ function nextWeek()
 {
   offset++;
   generate( offset, false );
+  event.preventDefault();
 }
 
 function generate( weekOffset, random )

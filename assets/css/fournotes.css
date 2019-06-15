@@ -34,9 +34,16 @@ body{
     font-weight: bold;
   }
 
-  p a
+  a
   {
     color: #FFF;
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+  a:hover
+  {
+    text-decoration: underline;
   }
 
 
@@ -85,6 +92,13 @@ body{
     text-align: center;
   }
 
+  #instructions
+  {
+    margin:20px 0px;
+    background: rgba(0,0,0,.1);
+    padding: 5px 20px;
+    border-radius: 10px;
+  }
 
 
   .content
@@ -111,7 +125,7 @@ body{
     padding: 10px;
     font-size: 20px;
     border-radius: 10px;
-    text-decoration: none;
+    text-decoration: none !important;
     color: #E84C89;
     background: #FFF;
     border:1px solid rgba(0,0,0, 0.05);
