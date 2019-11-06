@@ -1,6 +1,8 @@
 ---
 title: Veranda
 permalink: /veranda/
+social: https://dainsaint.com/images/veranda/veranda-social.jpg
+description: Five weeks to solo business clarity
 ---
 # A five-week program to get you clear on the next stage of your solo business.
 ![Veranda][banner]
@@ -24,8 +26,13 @@ It's a package of five weekly 1-hour sessions. We'll meet, in-person or via vide
 
 The sessions are as follows:
 
-| __Goal Discovery__ |__Business Discovery__|__Systems Design__|__Time Design__|__Lifestyle Design__|
-| We talk about your current situation and discover what "winning" looks like to you. | We go through your entire business, bottom to top, and discover exactly what it takes to do what you do. | We rearrange your business logic into systems that free up your time and focus. | We rearrange your schedule so you can capitalize on your newfound efficiency. | We look at how to use the time you've freed up to reorient towards your new goal. |
+| __Goal Discovery__ | We talk about your current situation and discover what "winning" looks like to you. |
+|__Business Discovery__ | We go through your entire business, bottom to top, and discover exactly what it takes to do what you do. |
+|__Systems Design__ | We rearrange your business logic into systems that free up your time and focus. |
+|__Time Design__ | We rearrange your schedule so you can capitalize on your newfound efficiency. |
+|__Lifestyle Design__ | We decide how to use the time you've freed up to reorient towards your new goal. |
+
+
 
 ## Testimonials
 _Nicole F., Developer/Entrepreneur_:
@@ -38,7 +45,7 @@ _Kevin S., Comic Creator_:
 
 
 ## Get started
-If you feel like this is something you need, schedule a [free consultation][https://calendly.com/dainsaint/veranda].
+If you feel like this is something you need, schedule a [free consultation](https://calendly.com/dainsaint/veranda).
 
 
 

@@ -2,6 +2,18 @@
   <meta name="google-site-verification" content="7ovvUJsqmr5CgV00kZVAGS-dYqLuyKdSXf0PwpkUfN4" />
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {% if page.social %}
+  <meta name="og:image" content="{{ page.social }}">
+  <meta name="og:title" content="{{ page.title }}">
+  <meta name="og:description" content="{{ page.description }}">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:description" content="{{ page.description }}">
+  <meta name="twitter:image" content="{{ page.social }}">
+  {% endif %}
+
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
 
   <!-- CSS -->
