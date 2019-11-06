@@ -3,6 +3,7 @@ title: Veranda
 permalink: /veranda/
 ---
 # A five-week program to get you clear on the next stage of your solo business.
+![Veranda][banner]
 I've been running my own business for over a decade. But in 2018, I was burnt out, struggling, and completely lacking in motivation. I had spent so long going through the motions of running my business that it felt like the business was running me.
 
 So I left.
@@ -15,7 +16,7 @@ I'd like to help you find your personal veranda.
 
 
 ## The Process
-__Veranda__ is business therapy masquerading as productivity coaching.
+__Veranda__ is business therapy disguised as productivity coaching.
 
 It's a package of five weekly 1-hour sessions. We'll meet, in-person or via video chat, and walk through the scaffold to really clarify your goals—and reconfigure how you run your business so you can focus on exactly what's important to _you_. The process is a starting point, meaning that while each step is laid out in order for a reason, we are free to deviate from the "script" if there is a more fruitful way to work together.
 
@@ -23,19 +24,22 @@ It's a package of five weekly 1-hour sessions. We'll meet, in-person or via vide
 
 The sessions are as follows:
 
-__Goal Discovery__: We talk about your current situation and discover what "winning" looks like to you.
+| __Goal Discovery__ |__Business Discovery__|__Systems Design__|__Time Design__|__Lifestyle Design__|
+| We talk about your current situation and discover what "winning" looks like to you. | We go through your entire business, bottom to top, and discover exactly what it takes to do what you do. | We rearrange your business logic into systems that free up your time and focus. | We rearrange your schedule so you can capitalize on your newfound efficiency. | We look at how to use the time you've freed up to reorient towards your new goal. |
 
-__Business Discovery__: We go through your entire business, bottom to top, and discover exactly what it takes to do what you do.
+## Testimonials
+_Nicole F., Developer/Entrepreneur_:
+> Dain helped me get clarity on an important decision I would have struggled back and forth with for weeks... in 15 minutes.
 
-__Systems Design__: We rearrange your business logic into systems that free up your time and focus.
+_Kevin S., Comic Creator_:
+> Working with Dain was a phenomenal experience. I sat down with an overloaded brain and a business that...while operating well...was operating in constant reaction mode. I was stressed, burned out, overworked, and feeling resentful of what I created. Within the first session, Dain was able to help me organize and visualize all the processes that make up my business, and then break them all down into their constituent parts so we would build them back up in a way where I could regain my time and autonomy. But Dain did more than just help me regain my all that. Dain helped me remember why I was doing all this in the first place, creating a mission statement that I couldn't have said better myself. That mission statement has given me purpose and direction that I did not have before. His help and guidance provided me with almost immediate results. And once I gained my time back and was feeling a little more rested, Dain assisted me in learning how to recharge and enjoy the process of creating once more. If you're willing to do the work that Dain lays out for you, then the help he provides in you aligning with the life you want, built from the life you have, is 100% worthwhile.
 
-__Time Design__: We rearrange your schedule so you can capitalize on your newfound efficiency.
 
-__Lifestyle Design__: We look at how to use the time you've freed up to reorient towards your new goal.
+
 
 ## Get started
-<!-- Calendly link widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-If you feel like this is something you need, schedule a <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/dainsaint/veranda'});return false;">free consultation</a>.
-<!-- Calendly link widget end -->
+If you feel like this is something you need, schedule a [free consultation][https://calendly.com/dainsaint/veranda].
+
+
+
+[banner]: /images/veranda/banner.jpg
