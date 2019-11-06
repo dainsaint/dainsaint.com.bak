@@ -36,7 +36,7 @@ The sessions are as follows:
 
 ## Testimonials
 _Nicole F., Developer/Entrepreneur_:
-> Dain **helped me get clarity** on an important decision I would have struggled back and forth with for weeks... in 15 minutes.
+> **Dain helped me get clarity** on an important decision I would have struggled back and forth with for weeks... in 15 minutes.
 
 _Kevin S., Comic Creator_:
 > Working with Dain was a phenomenal experience. I sat down with an overloaded brain and a business that...while operating well...was operating in constant reaction mode. I was stressed, burned out, overworked, and feeling resentful of what I created. Within the first session, Dain was able to help me organize and visualize all the processes that make up my business, and then break them all down into their constituent parts so we would build them back up in a way where I could regain my time and autonomy. But Dain did more than just help me regain all that. **Dain helped me remember why I was doing all this in the first place**, creating a mission statement that I couldn't have said better myself. That mission statement has given me purpose and direction that I did not have before. His help and guidance provided me with almost immediate results. And once I gained my time back and was feeling a little more rested, Dain assisted me in learning how to recharge and enjoy the process of creating once more. If you're willing to do the work that Dain lays out for you, then the help he provides in you aligning with the life you want, built from the life you have, is 100% worthwhile.
