@@ -2,6 +2,35 @@
 layout: default
 ---
 
+<style>
+input
+{
+  padding: 5px;
+  font-size: 18px;
+  height: 35px;
+  font-family: 'Aleo', serif;
+  width: 50%;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+}
+
+button
+{
+  padding: 5px 20px;
+  font-size: 18px;
+  height: 35px;
+  color: #FFF;
+  background: #2270BF;
+  border: 0px;
+  border-radius: 5px;
+  box-sizing: border-box;
+  position: relative;
+  top: 2px;
+}
+
+</style>
+
 <header style="margin-bottom:2rem">
   <div class="header-title">
     <a href="{{ site.url }}{{ site.baseurl }}">{{ site.name }}</a>
@@ -26,3 +55,17 @@ I like black clothes, but I have white cats.
 </p>
 
 <a href="mailto:hello@dainsaint.com">Let's make something awesome together!</a>
+
+<hr/>
+
+<h3>Newsletter</h3>
+
+<p>
+I'm not a huge fan of social media—it's an amazing invention for sure, but something about it doesn't really vibe with my personality? So if you'd like updates on what I'm working on, consider subscribing to my weekly newsletter instead:
+</p>
+
+<form action="https://tinyletter.com/dainsaint" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/dainsaint', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+  <input type="text" name="email" id="tlemail" placeholder="Enter your email address"/>
+  <button type="submit">Subscribe</button>
+  <input type="hidden" value="1" name="embed"/>
+</form>
